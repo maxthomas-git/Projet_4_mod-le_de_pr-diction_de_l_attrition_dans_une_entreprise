@@ -1,0 +1,17 @@
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Environnement virtuel Python
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Configuration Python locale
+.python-version
+
+# Fichiers système
+.DS_Store
+Thumbs.db
